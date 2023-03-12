@@ -3,7 +3,7 @@
 *NOTE: This is a experimental script and can contain bugs or issues, no command is executed without the users consent*
 
 <p align="center">
-  <img src="https://github.com/barthr/redo/blob/master/demo.gif" width="90%" height="90%" />
+  <img src="https://github.com/barthr/redo/blob/commandpilot/demo.gif" width="90%" height="90%" />
 </p>
 
 Assistant to help with those pesky commands on how to do things. For example, how do you rsync files with progress from one computer to another
