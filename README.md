@@ -3,7 +3,7 @@
 *NOTE: This is a experimental script and can contain bugs or issues, no command is executed without the users consent*
 
 <p align="center">
-    <a href="https://asciinema.org/a/566707?autoplay=1"><img src="https://asciinema.org/a/566707.png"/></a>
+    <a href="https://asciinema.org/a/566707"><img src="https://asciinema.org/a/566707.png"/></a>
 </p>
 
 Assistant to help with those pesky commands on how to do things. For example, how do you rsync files with progress from one computer to another
