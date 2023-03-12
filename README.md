@@ -5,7 +5,7 @@
 > Assistant to help with those pesky commands on how to do things. For example, how do you rsync files with progress from one computer to another
 
 <p align="center">
-  <img src="https://github.com/barthr/redo/blob/commandpilot/demo.gif" width="90%" height="90%" />
+  <img src="https://github.com/barthr/commandpilot/blob/master/demo.gif" width="90%" height="90%" />
 </p>
 
 
